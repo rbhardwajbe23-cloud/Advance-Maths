@@ -1,7 +1,7 @@
 # 📘 Learn Probability Density Functions using Roll-Number-Parameterized Non-Linear Model
 
 ## 👤 Submitted By
-**Name:** (Your Name)  
+**Name:** Rishi Bhardwaj
 **Roll Number:** 102303424  
 
 ---
